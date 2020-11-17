@@ -1,0 +1,57 @@
+#rang {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.rang {
+    margin: 30px;
+}
+
+fieldset {
+    width:25%;
+}
+
+label {
+    display: block;
+    width: 20%;
+    background: gray;
+    border-radius: 5px 5px 0px 0px;
+    color: wheat;
+}
+
+fieldset {
+    width: 25%;
+    background: #c5c4c4;
+    border: 2px dashed;
+    height: 100%;
+}
+
+legend {
+    background: gainsboro;
+    width: auto;
+    padding: 4px;
+    border: 1px solid;
+}
+
+body {
+    background: gray;
+    background-image: url(fond.jpg);
+}
+
+.horizontale {
+    display: flex;
+}
+
+#message {
+    width: 99.3%;
+    height: 50px;
+}
+
+span {
+    background: black;
+    color: white;
+    border-radius: 5px;
+    padding: 2px;
+    font-size: 22px;
+}
